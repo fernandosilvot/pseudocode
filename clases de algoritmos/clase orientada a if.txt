@@ -1,0 +1,32 @@
+if (pregunta?)                                 |
+    true                                       |
+else                                           |
+    false                                      |
+                                               |
+_______________________________________________|
+                                               |
+1) control policial                            |
+    if(tengo licencia?)                        |
+        me salvo                               |
+    else                                       |
+        me quitan el auto                      |
+_______________________________________________|
+
+imput    -> Programa   -> output
+entrada                  salida de
+de datos                  datos 
+                       _____________
+                      |             |
+                      | (print)     |
+                      | imprimir en |
+                      | pantalla    |
+                      |_____________|
+
+creemos un Algoritmo que diferencie un numero si es + o -
+
+1- usuario ingresa un numero "num"
+2- if num >= 0
+3-       print("el numero = "+ num +" es positivo")
+4-    else 
+5-       print("el numero = "+ num +" es negativo")
+
